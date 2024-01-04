@@ -1,0 +1,3 @@
+url:tcp://34.203.81.154:61616?wireFormat.maxInactivityDurationInitalDelay=30000
+jmsqueue2:dynamicQueues/1ak
+jmsqueue3:dynamicQueues/2ak
